@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+body {
+    max-width: 1440px;
+    background-color: #f0f4f5;
+    margin: auto;   /* research */
+    overflow: hidden;  /* research */
+    /* height: ; */
+
+}
+nav{
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+
+}
+nav ul{
+    display:flex;
+  
+}
+nav ul li{
+    /* text-decoration: none; */
+    list-style: none;
+    margin: 30px;
+    font-weight: 600;   /* research */
+}
+nav ul li:first-child{
+    color: green;
+
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+} 
+main section {
+    width: 50%;
+
+}
+.leftsec{
+    margin-left: 5%;
+    position: relative;
+    
+} 
+.leftsec h1{
+    font-size: 70px;
+}  
+.topangle{
+    width :25px;
+  
+}
+.leftsec p{
+    color: #808080;
+    font-size: 15px;
+    margin: 20px 0px;
+}
+.bottomangle{
+    width: 25px;
+    position: absolute;
+    right: 90px;
+}
+.stethoscope{ 
+    position: absolute;
+    width: 90%;
+    top: -60px;
+    right: -25px;
+
+    z-index: -1;             /* research */
+}
+.tab{
+    position: absolute;
+    right: 60px;
+    bottom: -30px;
+    width: 30px;
+
+}
+.leftsec button{
+    color: white;
+    font-size: 15px;
+    background-color: rgb(81, 197, 122);
+    padding: 15px 40px ;
+    border: none;
+    border-radius: 40px;
+}
+
+.greenbox, .orangebox{
+    position: absolute;
+    right: 0;
+    right: 3px;
+
+
+}
+.doctor{
+    position: absolute;
+    right: 20px;
+    bottom: 0px;
+    height: 87%;
+    width: 26%;
+  
+    
+  
+}
+.greenbox{
+    
+
+   width: 35%;
+   bottom: 30px;
+
+    
+}
+.orangebox {
+    width: 30%;
+    bottom: 50px;
+    left: 5;    
+    
+}

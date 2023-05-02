@@ -1,0 +1,165 @@
+/* You can not modify anything from the HTML file */
+/* You can only modify the CSS file */
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    max-width: 1440px;
+    margin:auto;
+}
+
+/* .container{
+    display: flex;
+} */
+
+.navbar-container{
+    display: flex;
+    font-family: Orbitron;
+    margin-left: 10rem;
+    margin-top: 4rem;
+}
+
+.logo img{
+    width:8%;
+    position: absolute;
+}
+
+.list{
+    display: flex;
+    position:relative;
+    margin-left: 15rem;
+    cursor: pointer;
+}
+.list-item{
+    text-decoration: none;
+    list-style: none;
+    margin: 0% 10%;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.list-item:nth-child(1)
+{
+    text-decoration: underline;
+}
+
+.button-group{
+    position: relative;
+    left:32%;
+    display: flex;
+}
+.search-icon svg{
+    width: 25px;
+    margin-right: 0.5rem;
+}
+.nav-button{
+    width: 8rem;
+    height: 2rem;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    color: rgb(137, 148, 148);
+}
+
+/* Hero Banner Section */
+
+.hero-container{
+    display: flex;
+    /* position: absolute;
+    top: 25%; */
+    margin: 8%;
+}
+.hero-container #hero img{
+    width: 18rem;
+    position:absolute;
+    right: 54rem;
+    bottom:6rem;
+}
+.square img{
+    width: 20%;
+    position:absolute;
+    top: 51%;
+    left: 16.3%;
+}
+.star img{
+    /* margin: 100%; */
+    width: 3.5rem;
+    position: absolute;
+    top: 26%;
+    left: 70rem;
+}
+.star1 img{
+    /* margin: 100%; */
+    width: 2.5rem;
+    position: absolute;
+    left: 42%;
+    top: 87%;
+}
+.globe img{
+    width: 3rem;
+    position: absolute;
+    top: 23%;
+    left: 55%;
+}
+
+.hero-container-right
+{
+    
+    width: 60%;
+    position: absolute;
+    top:35%;
+    left: 40%;
+}
+
+.hero-heading{
+    font-family: Orbitron;
+    font-size: 3.5rem;
+    font-weight: 600;
+}
+.hero-description{
+    color: rgb(170, 165, 159);
+    margin-top: 5%;
+    font-size: 15px;
+    text-align: center;
+}
+.button-email{
+    width: 35%;
+    font-family: Orbitron;
+    border-radius: 10px;
+    height: 25px;
+    font-size: 20px;
+    margin-top: 10%;
+    margin-left: 24%;
+    cursor: pointer;
+}
+.button-join{
+    width: 18%;
+    border-radius: 8px;
+    height: 25px;
+    font-size: 20px;
+    background-color:black;
+    color: white;
+    font-family: Orbitron;
+    margin-left: 2%;
+    cursor: pointer;
+}
+.contact-heading{
+    margin-top: 7%;
+    margin-left: 40%;
+    font-weight: 500;
+    font-size: 24px;
+    color: rgb(122, 121, 116);
+}
+.icons{
+    width: 40%;
+    margin-top: 1%;
+    margin-left: 33%;
+    padding: 0% 2%;
+}
+.icons img{
+    width: 30px;
+    padding:2%;
+    cursor: pointer;
+}

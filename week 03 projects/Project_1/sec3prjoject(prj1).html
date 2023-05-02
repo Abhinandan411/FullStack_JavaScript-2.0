@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project_1</title>
+</head>
+<style>
+    * {
+        margin: 0px 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    }
+    body{
+        max-width: 1440px;
+        margin: auto;
+    }
+
+    nav {
+        display: flex;
+        /* border: 2px solid red; */
+        padding: 2px 5%;
+        height: 15vh;
+    }
+
+    nav img {
+        height: 2rem;
+        margin-top: 2%;
+       
+    }
+
+    nav ul {
+        display: flex;
+        margin-top: 3%;
+        margin-left: 5%;
+        
+    }
+
+    nav li {
+        list-style: none;
+        margin: 0px 15px;
+        margin-left: 2%;
+        color:grey;
+    }
+    .home{
+        color: black;
+        font-weight:bold;
+    }
+
+    
+
+    nav button {
+        margin-top: 1.5%;
+        margin-left: 50%;
+        width: 11%;
+        height: 58%;
+        border:1px solid rgb(153, 125, 232);
+        color: white;
+        font-weight: bold;
+        border-radius: 10px;
+        background-color: rgb(86, 83, 172);
+    }
+
+    main {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        height: 300px;
+
+    }
+
+    .left-section {
+        margin-top: 5%;
+        float: left;
+        width: 50%;
+        margin-left: 5%;
+   
+    }
+    .right-section img{
+        width:100%;
+        float: right;
+        margin-top: 35%;
+
+    }
+    main h1{
+        margin-top: 20%;
+        color: rgb(71, 59, 106);
+        width: 50%;
+        font-size: 2.4rem;
+        
+    }
+    main h1 span{
+        color: rgb(146, 124, 215);
+        width: 50%;
+        font-size: 3rem;
+        
+    }
+    main p{
+        font-size: 15px;
+        margin-top: 5%;
+        color: gray;
+        width: 75%;
+    }
+    .button{
+        margin-top: 10%;
+        /* margin-left:5%; */
+        width: 30%;
+        height: 50px;
+       
+        border:1px solid rgb(153, 125, 232);
+        color: white;
+        font-weight: bold;
+        border-radius: 10px;
+        background-color: rgb(86, 83, 172);
+
+    }
+    
+</style>
+
+<body>
+
+    <!-- navbar -->
+    <nav>
+        <img src="images_prj1/Logo.png" alt="">
+        <ul>
+            <li class="home">Home</li>
+            <li>About</li>
+            <li>Services</li>
+            <li>Portfolio</li>
+            <li>Pricing</li>
+        </ul>
+        <button>Contact Us</button>
+    </nav>
+
+    <main>
+        <!-- left-section -->
+        <section class="left-section">
+            <h1>We Help You <span>Crush</span> Your Competition</h1>
+            <p>Build trust to connect your brand to billions of users and grow you revenue through and groe your revenue
+                through SEO. </p>
+            <button class="button">See our services</button>
+        </section>
+
+        <!-- right-section -->
+        <section class="right-section">
+            <img src="images_prj1/Header Illustration.png" alt="">
+        </section>
+
+    </main>
+</body>
+
+</html>

@@ -14,6 +14,18 @@
 [CSS CODE](./Project_1/sec3project(prj1).css)
 
 
-**OUTPUT of Project -1:**
+**OUTPUT of Project-1:**
 
 [see here](./Project_1/images_prj1/output.png)
+
+## Project 2 ##
+
+`WORK_FLOW : In the second Project HTML and CSS code is written separatelty :)`
+
+[HTML CODE](./Project_2/index.html)
+
+[CSS CODE](./Project_2/week03_prj2.css)
+
+**OUTPUT Of Project-2:**
+
+[see here](./Project_2/images_prj2/output.png)

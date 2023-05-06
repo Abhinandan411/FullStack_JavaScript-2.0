@@ -38,7 +38,7 @@
 
 [CSS CODE](./Project_3/style.css)
 
-**OUTPUT Of Project-2:**
+**OUTPUT Of Project-3:**
 
 [see here](./Project_3/output.png)
 

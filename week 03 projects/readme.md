@@ -29,3 +29,16 @@
 **OUTPUT Of Project-2:**
 
 [see here](./Project_2/images_prj2/output.png)
+
+## Project 3 ##
+
+`WORK_FLOW: In this project HTML & CSS  code is written Separetely :)`
+
+[HTML CODE](./Project_3/index.html)
+
+[CSS CODE](./Project_3/style.css)
+
+**OUTPUT Of Project-2:**
+
+[see here](./Project_3/output.png)
+

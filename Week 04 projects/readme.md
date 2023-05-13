@@ -15,7 +15,7 @@
 
 ## PROJECT-2
 
-## SOURCE CODE ##
+### SOURCE CODE ###
 
 `For this Project HTML and CSS file is Written separetely`
 
@@ -25,4 +25,17 @@
 
 **Output**
 [See here](/Week%2004%20projects/Project_2/project_2_images/ineuron_project2_sample.jpeg)
+
+## PROJECT-3
+
+### SOURCE CODE ###
+
+`For this Project HTML and CSS file is Written separetely`
+
+[HTML CODE](/Week%2004%20projects/Project_3/ineuron_prj3.html)
+
+[CSS CODE](/Week%2004%20projects/Project_3/ineuron_prj3.css)
+
+**Output**
+[See here](/Week%2004%20projects/Project_3/project_3_images/Output.png)
 

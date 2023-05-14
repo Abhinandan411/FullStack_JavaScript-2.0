@@ -26,7 +26,7 @@
 **Output**
 [See here](/Week%2004%20projects/Project_2/project_2_images/ineuron_project2_sample.jpeg)
 
-## PROJECT-3
+## PROJECT:3
 
 ### SOURCE CODE ###
 

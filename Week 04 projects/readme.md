@@ -13,7 +13,7 @@
 **Output**
 [See here](/Week%2004%20projects/Project_1/project_1_images/output.png)
 
-## PROJECT-2
+## PROJECT:2
 
 ### SOURCE CODE ###
 

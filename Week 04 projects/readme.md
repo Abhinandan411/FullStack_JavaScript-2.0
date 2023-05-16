@@ -1,6 +1,6 @@
 # Full Stack JavaScript 2.0
 
-## PROJECT-1
+## PROJECT:1
 
 ### Source code ###
 

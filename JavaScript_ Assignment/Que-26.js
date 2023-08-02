@@ -4,6 +4,8 @@
 // 	2 * 2 = 4
 // 	2 * 3 = 6 and so on till 2 * 10 = 20.
 
+
+// Solution:--
 const prompt = require("prompt-sync")({ sigint: true });
 
 const multiplicationTable = () => {

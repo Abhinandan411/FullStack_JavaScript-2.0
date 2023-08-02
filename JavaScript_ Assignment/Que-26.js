@@ -1,4 +1,4 @@
-// Question:24-------
+// Question:26-------
 
 // 26. Write a program to print the table of any number given by the user. The format of the output should be similar to the below example-
 // 	If the number given by the user is 2 then the output should look like this-

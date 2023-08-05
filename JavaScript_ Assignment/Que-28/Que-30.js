@@ -3,10 +3,10 @@
 const prompt = require("prompt-sync")({ sigint: true });
 
 const calculator = () => {
-  const num1 = prompt("Enter 1st number: ");
-  const num2 = prompt("Enter 2nd number: ");
+  const num1 = prompt("Enter 1st number : ");
+  const num2 = prompt("Enter 2nd number : ");
   const action = prompt(
-    "What calculation you want to perform - \n 1. Addition\n 2. Subtraction\n 3. Multiplication\n 4. Division\n Choose between 1 to 4: "
+    "What you want to perform - \n 1. Addition\n 2. Subtraction\n 3. Multiplication\n 4. Division\n Choose between 1 to 4: "
   );
 
   if (action == 1) {

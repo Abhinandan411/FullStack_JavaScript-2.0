@@ -3,7 +3,7 @@
 const prompt = require("prompt-sync")({ sigint: true });
 
 const printExtension = () => {
-  const string = prompt("Enter the file name: ");
+  const string = prompt("Enter the file name : ");
   const arr = string.split(".");
   console.log(arr[arr.length - 1]);
 };

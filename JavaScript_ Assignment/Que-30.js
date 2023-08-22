@@ -3,7 +3,7 @@
 // 30. Create a simple calculator program in JavaScript which can perform the addition, subtraction, multiplication and division on given numbers.
 
 
-// solution:---- 
+// solution:--- 
 const prompt = require("prompt-sync")({ sigint: true });
 
 const calculator = () => {

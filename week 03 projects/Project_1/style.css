@@ -38,6 +38,9 @@
         color:grey;
         cursor: pointer;
     }
+    nav li:hover{
+        color: rgb(160, 76, 237);
+    }
     .home{
         color: black;
         font-weight:bold;

@@ -36,6 +36,7 @@
         margin: 0px 15px;
         margin-left: 2%;
         color:grey;
+        cursor: pointer;
     }
     .home{
         color: black;

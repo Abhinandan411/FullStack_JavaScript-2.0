@@ -5,4 +5,4 @@
  [HTML-code](/week%2003%20projects/Project_1/sec3prjoject(prj1).html)
 
 [CSS-Code](/week%2003%20projects/Project_1/sec3project(prj1).css)
-![output](./images_prj1/output.png)
+![output](output.png)

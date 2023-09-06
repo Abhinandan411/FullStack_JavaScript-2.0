@@ -37,7 +37,7 @@ nav li {
     font-weight: bold;
 }
 nav li:hover{
-  color: blueviolet;
+  color: rgb(179, 34, 179);
   cursor: pointer;
 }
 

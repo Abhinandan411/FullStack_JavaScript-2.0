@@ -36,6 +36,10 @@ nav li {
 
     font-weight: bold;
 }
+nav li:hover{
+  color: blueviolet;
+  cursor: pointer;
+}
 
 .line {
     font-weight: 200px;
@@ -56,6 +60,12 @@ nav button {
     border-radius: 6px;
     background-color: rgb(179, 34, 179);
     font-weight: bold;
+}
+nav button:hover{
+    color:rgb(179, 34, 179);;
+    cursor: pointer;
+    background-color: #fff;
+    transition: .5s ease;
 }
 
 main section {

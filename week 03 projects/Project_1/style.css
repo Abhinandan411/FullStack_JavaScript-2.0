@@ -48,7 +48,7 @@
 
     
 
-    nav button {
+    nav button{
         margin-top: 1.5%;
         margin-left: 50%;
         width: 11%;
@@ -58,6 +58,10 @@
         font-weight: bold;
         border-radius: 10px;
         background-color: rgb(86, 83, 172);
+    }
+    nav button:hover{
+        background-color: #ffff;
+        color: #000;
     }
 
     main {
@@ -113,5 +117,11 @@
         border-radius: 10px;
         background-color: rgb(86, 83, 172);
 
+    }
+    .button:hover{
+        background-color: #ffff ;
+        transition: .5s ease;
+        color: #000;
+        cursor: pointer;
     }
     

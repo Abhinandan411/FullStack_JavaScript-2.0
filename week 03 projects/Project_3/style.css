@@ -39,6 +39,13 @@ body{
     font-size: 1.3rem;
     font-weight: 700;
 }
+.list-item:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 1px transparent;
+    border-radius: 10px;
+}
 
 .list-item:nth-child(1)
 {

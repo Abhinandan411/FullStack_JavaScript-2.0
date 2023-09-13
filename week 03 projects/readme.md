@@ -29,7 +29,8 @@
 
 **OUTPUT Of Project-2:**
 
-[see here](./Project_2/images_prj2/output.png)
+![output](https://github.com/Abhinandan411/FSJS-2.0/assets/131553633/41e01880-2438-4967-a470-4465fe49ccd7)
+
 
 ## Project 3 ##
 
@@ -41,4 +42,4 @@
 
 **OUTPUT Of Project-3:**
 
-[see here](./Project_3/output.png)
+![output](https://github.com/Abhinandan411/FSJS-2.0/assets/131553633/71f8f2f3-5d9c-45a6-8ca6-d0cc4bfe256b)

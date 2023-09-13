@@ -7,6 +7,7 @@
 `WORK_FLOW : For this Project HTML and CSS code is written separately :)`
 
 
+
 [HTML CODE](./Project_1/sec3prjoject(prj1).html)
 
 
@@ -16,7 +17,7 @@
 
 **OUTPUT of Project-1:**
 
-[see here](./Project_1/images_prj1/output.png)
+![output](https://github.com/Abhinandan411/FSJS-2.0/assets/131553633/abc4821e-a7ca-488a-9e59-9dd4557ce554)
 
 ## Project 2 ##
 

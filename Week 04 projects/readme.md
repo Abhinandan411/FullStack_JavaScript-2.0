@@ -24,7 +24,7 @@
 [CSS CODE](/Week%2004%20projects/Project_2/ineuron_prj2.css)
 
 **Output**
-[See here](/Week%2004%20projects/Project_2/project_2_images/ineuron_project2_sample.jpeg)
+![ineuron_project2_sample](https://github.com/Abhinandan411/FSJS-2.0/assets/131553633/08a38c82-ef5b-415c-b79c-90268178b59c)
 
 ## PROJECT:3
 

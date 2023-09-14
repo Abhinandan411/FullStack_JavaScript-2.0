@@ -37,5 +37,5 @@
 [CSS CODE](/Week%2004%20projects/Project_3/ineuron_prj3.css)
 
 **Output**
-[See here](/Week%2004%20projects/Project_3/project_3_images/Output.png)
+![Output](https://github.com/Abhinandan411/FSJS-2.0/assets/131553633/a81f7bb5-e57b-4210-8890-5556186bf54f)
 

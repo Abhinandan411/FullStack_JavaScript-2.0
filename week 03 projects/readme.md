@@ -43,6 +43,8 @@
 
 [CSS CODE](./Project_3/style.css)
 
+[Live_link](https://comfy-tiramisu-f5efd4.netlify.app)
+
 **OUTPUT Of Project-3:**
 
 ![output](https://github.com/Abhinandan411/FSJS-2.0/assets/131553633/71f8f2f3-5d9c-45a6-8ca6-d0cc4bfe256b)

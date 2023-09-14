@@ -11,7 +11,7 @@
 [CSS CODE](/Week%2004%20projects/Project_1/project1ineuron.css)
 
 **Output**
-[See here](/Week%2004%20projects/Project_1/project_1_images/output.png)
+![output](https://github.com/Abhinandan411/FSJS-2.0/assets/131553633/8ce09135-aa20-4a0e-9508-1115e90faf9a)
 
 ## PROJECT:2
 

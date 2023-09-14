@@ -28,6 +28,8 @@
 
 [CSS CODE](./Project_2/week03_prj2.css)
 
+[live_link](https://remarkable-cassata-4a30c8.netlify.app)
+
 **OUTPUT Of Project-2:**
 
 ![output](https://github.com/Abhinandan411/FSJS-2.0/assets/131553633/41e01880-2438-4967-a470-4465fe49ccd7)

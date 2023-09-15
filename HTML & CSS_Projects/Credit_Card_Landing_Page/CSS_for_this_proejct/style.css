@@ -320,11 +320,11 @@ header {
     border-width: 2px;
     border-style: solid;
     border-image: linear-gradient(to bottom right, #ffffff, #151515) 0.7;
-    transition: 2s;
+    /* transition: 2s; */
 }
 
 .testimonials-box:hover {
-    border-image: linear-gradient(to bottom left, #f637ec, #f637ec) 0.7;
+    /* border-image: linear-gradient(to bottom left, #f637ec, #f637ec) 0.7; */
     cursor: pointer;
 }
 

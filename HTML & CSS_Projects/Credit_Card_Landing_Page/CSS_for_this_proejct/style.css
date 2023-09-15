@@ -241,7 +241,7 @@ header {
 }
 
 .services-boxes:hover {
-    /* border-image: linear-gradient(to bottom left, #f637ec, #f637ec) 0.7; */
+    
     cursor: pointer;
 }
 

@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 /* Header aea styling */
@@ -106,7 +106,7 @@ header {
 
 .hero-heading {
     color: #ffffff;
-    font-size: 88px;
+    font-size: 80px;
     font-weight: 400;
     line-height: 1.3em;
 }
@@ -118,7 +118,7 @@ header {
 
 .hero-txt {
     color: #adadad;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 300;
     margin: 30px 0 80px 0;
 }
@@ -460,6 +460,7 @@ footer {
 }
 
 .footer-menu-items {
+    /* margin-left: 40%; */
     color: #ffffff;
     transition: 0.5s;
 }

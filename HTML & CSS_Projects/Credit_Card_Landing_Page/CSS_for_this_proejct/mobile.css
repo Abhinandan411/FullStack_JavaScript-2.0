@@ -279,4 +279,8 @@
     .footer-right {
       text-align: center;
     }
+    .footer-menu-area{
+      position: relative;
+    margin-left: 20%;
+    }
   }

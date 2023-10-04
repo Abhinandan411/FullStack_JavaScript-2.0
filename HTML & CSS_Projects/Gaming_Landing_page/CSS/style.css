@@ -8,7 +8,7 @@
   header {
     width: 100%;
     height: 800px;
-    background-image: url(/Assets/Photos/futuristic-bg.png),
+    background-image: url(../Assets/Photos/futuristic-bg.png),
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
     background-position: center center;
     background-repeat: no-repeat;
@@ -242,7 +242,7 @@
         #33393dbf 70%,
         #33393dbf 100%
       ),
-      url(/Assets/Photos/image\ 2.png);
+      url(../Assets/Photos/image\ 2.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -256,7 +256,7 @@
         #5f5039c6 70%,
         #5f5039c6 100%
       ),
-      url(/Assets/Photos/image\ 4.png);
+      url(../Assets/Photos/image\ 4.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -270,7 +270,7 @@
         #1a1d42bf 70%,
         #1a1d42bf 100%
       ),
-      url(/Assets/Photos/image\ 3.png);
+      url(../Assets/Photos/image\ 3.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -284,7 +284,7 @@
         #240d09be 70%,
         #240d09be 100%
       ),
-      url(/Assets/Photos/Rectangle\ 56.png);
+      url(../Assets/Photos/Rectangle\ 56.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -350,7 +350,7 @@
     flex-basis: 45%;
     width: 550px;
     height: 375px;
-    background-image: url(/Assets/Photos/Rectangle\ 57.png);
+    background-image: url(../Assets/Photos/Rectangle\ 57.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -515,7 +515,7 @@
   /* Most played games section styling */
   
   #most-pgame {
-    background-image: url(/Assets/Icons/GAMES\ OF\ THE\ WORLD.svg),
+    background-image: url(../Assets/Icons/GAMES\ OF\ THE\ WORLD.svg),
       linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.968));
     background-position: right center;
     background-repeat: no-repeat;
@@ -578,7 +578,7 @@
   /* Get started section styling */
   
   #get-started {
-    background-image: url(/Assets/Photos/Rectangle\ 606.png),
+    background-image: url(../Assets/Photos/Rectangle\ 606.png),
       linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
     background-position: center center;
     background-repeat: no-repeat;
@@ -701,9 +701,3 @@
     font-size: 15px;
     text-align: center;
   }
-  
-  a {
-    color: #f4684c;
-  }
-  
-  /* 😊 Happy Ending */

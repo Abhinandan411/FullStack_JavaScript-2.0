@@ -11,4 +11,4 @@
 ### 🎟️[Live Link](https://whimsical-custard-834fb4.netlify.app) 
 
 ### 💥Project Output :  
-![Credit card landing page](https://github.com/Abhinandan411/FSJS-2.0/assets/131553633/d9550c16-fe3f-4d43-a84a-925cdc874294)
+![Gaming Landing Page](https://github.com/Abhinandan411/FullStack_JavaScript-2.0/assets/131553633/02f1729c-01d6-4352-baf5-8b8c5831eae8)

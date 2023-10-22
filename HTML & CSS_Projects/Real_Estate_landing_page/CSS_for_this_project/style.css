@@ -13,7 +13,7 @@
   header {
     width: 100%;
     height: 870px;
-    background-image: url(/assets/Photos/mainBackground.jpg),
+    background-image: url(/Assets/Photos/mainBackground.png),
       linear-gradient(rgba(59, 59, 59, 0.896), rgba(59, 59, 59, 0.896));
     background-position: center center;
     background-repeat: no-repeat;

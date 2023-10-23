@@ -313,7 +313,7 @@
   .modern-left {
     flex-basis: 50%;
     height: 600px;
-    background-image: url(/assets/Icons/featureImageBg1.svg);
+    background-image: url(/Assets/Icons/featureImageBg1.svg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -435,8 +435,8 @@
     background-color: #000000; */
     background-position: right center;
     background-size: 200% auto;
-    -webkit-animation: pulse 2s infinite;
-    animation: pulse512 1.5s infinite;
+    /* -webkit-animation: pulse 2s infinite; */
+    /* animation: pulse512 1.5s infinite; */
   }
   
   @keyframes pulse512 {

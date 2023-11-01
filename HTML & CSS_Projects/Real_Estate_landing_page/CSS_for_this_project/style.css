@@ -438,7 +438,7 @@ menu {
 }
 
 button:hover {
-  
+  /* color: #ffffff;
     background-color: #000000; */
   background-position: right center;
   background-size: 200% auto;

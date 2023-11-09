@@ -63,7 +63,7 @@ menu {
   display: none;
 }
 
-/* Hero area styling */
+/* -----Hero area styling--- */
 
 #hero {
   max-width: 1200px;
@@ -439,7 +439,7 @@ menu {
 
 button:hover {
  
-    background-color: #000000; */
+    /*background-color: #000000; */
   background-position: right center;
   background-size: 200% auto;
   /* -webkit-animation: pulse 2s infinite; */
